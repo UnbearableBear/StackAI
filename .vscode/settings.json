@@ -1,0 +1,8 @@
+{
+  "eslint.enable": true,
+  "eslint.packageManager": "pnpm",
+  "eslint.nodePath": "./node_modules",
+  "eslint.workingDirectories": [
+    "."
+  ]
+}
